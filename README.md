@@ -1,2 +1,2 @@
 # Web_Design
-Creted a responsive web design 
+Created a responsive web design 
